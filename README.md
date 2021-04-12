@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m currently  a student at 1337 BG (42 Network).
+- 📫 How to reach me: [twiter](https://twitter.com/hadjaoui_el)
 - 🌱 I’m currently learning and working on 42 Projects: 
 # 42 Cursus
 
