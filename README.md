@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently  a student at 1337 BG (42 Network).
-- - 🌱 I’m currently learning and working on 42 Projects:
-- # 42 Cursus
+- 🌱 I’m currently learning and working on 42 Projects: 
+# 42 Cursus
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/mel-hadj?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
