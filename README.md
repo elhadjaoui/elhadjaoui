@@ -12,7 +12,7 @@
 
 Project | Description | Intra
 ------- | ----------- | -----
-[Libft](https://github.com/elhadjaoui/42-Cursus/tree/main/libft) | The aim of this project is to code a C library usual functions. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/Libft)](https://github.com/JaeSeoKim/badge42)
+[Libft](https://github.com/elhadjaoui/42-Cursus/tree/main/libft) | The aim of this project is to code a C library usual functions. | [![mel-hadj's 42 Libft Score](https://badge42.vercel.app/api/v2/cl35iulkn001609n1javelcnr/project/1602073)](https://github.com/JaeSeoKim/badge42)
 [Get next line](https://github.com/elhadjaoui/42-Cursus/tree/main/get_next_line)| The aim of this project is to code a function that returns a line ending with a newline, read from a file descriptor. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/get_next_line)](https://github.com/JaeSeoKim/badge42)
 Netwhat | This project is an introduction to network problematics. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/netwhat)](https://github.com/JaeSeoKim/badge42)
 [Printf](https://github.com/elhadjaoui/42-Cursus/tree/main/ft_printf)|The aim of this project is to recode Printf cuz putnbr and putstr aren’t enough. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/ft_printf)](https://github.com/JaeSeoKim/badge42)
