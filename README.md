@@ -24,7 +24,7 @@ Netwhat | This project is an introduction to network problematics. | [![jaeskim'
 [minitalk](https://github.com/elhadjaoui/42-Cursus/tree/main/minitalk)| The purpose of this project is to code a small data exchange program using UNIX signals. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/minitalk)](https://github.com/JaeSeoKim/badge42)
 [FDF](https://github.com/elhadjaoui/FDF)|  This project is about creating a simplified 3D graphic representation of a relief landscape. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/FdF)](https://github.com/JaeSeoKim/badge42)
 [Minishell](https://github.com/elhadjaoui/minishell)| The objective of this project is to create a simple shell. Yes, a little bash or zsh. I learn a lot about processes and file descriptors. | [![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/mel-hadj/minishell)](https://github.com/JaeSeoKim/badge42)
-[FDF](https://github.com/elhadjaoui/WebServer)| This project is about writing our own HTTP server. HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful. | [![mel-hadj's 42 webserv Score](https://badge42.vercel.app/api/v2/cl35iulkn001609n1javelcnr/project/2597180)](https://github.com/JaeSeoKim/badge42)
+[WebServer](https://github.com/elhadjaoui/WebServer)| This project is about writing our own HTTP server. HTTP is one of the most used protocols on the internet. Knowing its arcane will be useful. | [![mel-hadj's 42 webserv Score](https://badge42.vercel.app/api/v2/cl35iulkn001609n1javelcnr/project/2597180)](https://github.com/JaeSeoKim/badge42)
 
 
 
