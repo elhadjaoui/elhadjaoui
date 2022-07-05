@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning and working on 42 Projects: 
 # 42 Cursus
 
-[![mel-hadj's 42 stats](https://badge42.vercel.app/api/v2/cl35iulkn001609n1javelcnr/stats?cursusId=21&coalitionId=77)](https://github.com/JaeSeoKim/badge42)
+[![mel-hadj's 42 stats](https://badge.mediaplus.ma/greenbinary/mel-hadj)](https://github.com/oakoudad/badge42)
 
 ## Projects done so far:
 
