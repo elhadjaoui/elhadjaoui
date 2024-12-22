@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently  a student at 1337 BG (42 Network).
-- 📫 How to reach me: [twiter](https://twitter.com/hadjaoui_el)
-- 🌱 I’m currently learning and working on 42 Projects: 
+- 🔭 I’m currently  a student at 1337 BG (42 Network). 
 # 42 Cursus
 
 [![mel-hadj's 42 stats](https://badge.mediaplus.ma/greenbinary/mel-hadj)](https://github.com/oakoudad/badge42)
